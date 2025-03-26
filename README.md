@@ -115,34 +115,34 @@ O conjunto de dados contém informações detalhadas sobre **990 produtos**, inc
 Os gráficos gerados nesta análise incluem:  
 
 📊 **Vendas por Mês**  
-![Vendas por Mês](EDA_Supermercado/imagens/Vendas%20por%20Mês.png)  
+![Vendas por Mês](imagens/Vendas%20por%20Mês.png)  
 
 📊 **Volume de Vendas por Produto**  
-![Volume de Vendas por Produto](EDA_Supermercado/imagens/Volume%20de%20Vendas%20por%20Produto.png)  
+![Volume de Vendas por Produto](imagens/Volume%20de%20Vendas%20por%20Produto.png)  
 
 📊 **Volume de Vendas por Categoria**  
-![Volume de Vendas por Categoria](EDA_Supermercado/imagens/Volume%20de%20Vendas%20por%20Categoria.png)  
+![Volume de Vendas por Categoria](imagens/Volume%20de%20Vendas%20por%20Categoria.png)  
 
 📊 **Distribuição do Volume de Vendas por Categoria**  
-![Distribuição do Volume de Vendas por Categoria](EDA_Supermercado/imagens/Distribuição%20do%20Volume%20de%20Vendas%20por%20Categoria.png)  
+![Distribuição do Volume de Vendas por Categoria](imagens/Distribuição%20do%20Volume%20de%20Vendas%20por%20Categoria.png)  
 
 📊 **Preço vs Volume de Vendas**  
-![Preço vs Volume de Vendas](EDA_Supermercado/imagens/Preço%20vs%20Volume%20de%20Vendas.png)  
+![Preço vs Volume de Vendas](imagens/Preço%20vs%20Volume%20de%20Vendas.png)  
 
 📊 **Produtos Ativos com Maior Taxa de Giro**  
-![Produtos Ativos com Maior Taxa de Giro](EDA_Supermercado/imagens/Produtos%20Ativos%20com%20Maior%20Taxa%20de%20Giro.png)  
+![Produtos Ativos com Maior Taxa de Giro](imagens/Produtos%20Ativos%20com%20Maior%20Taxa%20de%20Giro.png)  
 
 📊 **Produtos Ativos com Menor Taxa de Giro**  
-![Produtos Ativos com Menor Taxa de Giro](EDA_Supermercado/imagens/Produtos%20Ativos%20com%20Menor%20Taxa%20de%20Giro.png)  
+![Produtos Ativos com Menor Taxa de Giro](imagens/Produtos%20Ativos%20com%20Menor%20Taxa%20de%20Giro.png)  
 
 📊 **Produtos Descontinuados - Preço vs. Taxa de Giro**  
-![Produtos Descontinuados](EDA_Supermercado/imagens/Produtos%20Descontinuados%20-%20Preço%20vs.%20Taxa%20de%20Giro.png)  
+![Produtos Descontinuados](imagens/Produtos%20Descontinuados%20-%20Preço%20vs.%20Taxa%20de%20Giro.png)  
 
 📊 **Fornecedores que Entregam com Mais Frequência**  
-![Fornecedores Frequentes](EDA_Supermercado/imagens/Fornecedores%20que%20Entregam%20com%20Mais%20Frequência.png)  
+![Fornecedores Frequentes](imagens/Fornecedores%20que%20Entregam%20com%20Mais%20Frequência.png)  
 
 📊 **Problemas de Estoque - Excesso vs Ruptura**  
-![Problemas de Estoque](EDA_Supermercado/imagens/Problemas%20de%20Estoque%20-%20Excesso%20vs%20Ruptura.png)  
+![Problemas de Estoque](imagens/Problemas%20de%20Estoque%20-%20Excesso%20vs%20Ruptura.png)  
 
 ---
 
