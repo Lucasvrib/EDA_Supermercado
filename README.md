@@ -110,7 +110,7 @@ O conjunto de dados contém informações detalhadas sobre **990 produtos**, inc
 
 ---
 
-## 📷 Exemplos de Gráficos  
+## 📷 Gráficos  
 
 Os gráficos gerados nesta análise incluem:  
 
